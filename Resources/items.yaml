@@ -1,0 +1,2486 @@
+---
+Items:
+  Weapons:
+    Weapon_Sword_001:
+      Name: Traveler's Sword
+    Weapon_Sword_002:
+      Name: Soldier's Broadsword
+    Weapon_Sword_003:
+      Name: Knight's Broadsword
+    Weapon_Sword_004:
+      Name: Boko Club
+    Weapon_Sword_005:
+      Name: Spiked Boko Club
+    Weapon_Sword_006:
+      Name: Dragonbone Boko Club
+    Weapon_Sword_007:
+      Name: Lizal Boomerand
+    Weapon_Sword_008:
+      Name: Lizal Forked Boomerang
+    Weapon_Sword_009:
+      Name: Lizal Tri-Boomerang
+    Weapon_Sword_013:
+      Name: Guardian Sword
+    Weapon_Sword_014:
+      Name: Guardian Sword+
+    Weapon_Sword_015:
+      Name: Guardian Sword++
+    Weapon_Sword_016:
+      Name: Lynel Sword
+    Weapon_Sword_017:
+      Name: Mighty Lynel Sword
+    Weapon_Sword_018:
+      Name: Savage Lynel Sword
+    Weapon_Sword_019:
+      Name: Bokoblin Arm
+    Weapon_Sword_020:
+      Name: Lizalfos Arm
+    Weapon_Sword_021:
+      Name: Rusty Broadsword
+    Weapon_Sword_022:
+      Name: Soup ladle
+    Weapon_Sword_023:
+      Name: Ancient Short Sword
+    Weapon_Sword_024:
+      Name: Royal Broadsword
+    Weapon_Sword_025:
+      Name: Forest Dweller's Sword
+    Weapon_Sword_027:
+      Name: Zora Sword
+    Weapon_Sword_029:
+      Name: Gerudo Scimitar
+    Weapon_Sword_030:
+      Name: Moonlight Scimitar
+    Weapon_Sword_031:
+      Name: Feathered Edge
+    Weapon_Sword_033:
+      Name: Flameblade
+    Weapon_Sword_034:
+      Name: Frostblade
+    Weapon_Sword_035:
+      Name: Thunderblade
+    Weapon_Sword_040:
+      Name: Spring-Loaded Hammer
+    Weapon_Sword_041:
+      Name: Eightfold Blade
+    Weapon_Sword_043:
+      Name: Torch
+    Weapon_Sword_044:
+      Name: Tree Branch
+    Weapon_Sword_047:
+      Name: Royal Guard's Sword
+    Weapon_Sword_048:
+      Name: Meteor Rod
+    Weapon_Sword_049:
+      Name: Blizzard Rod
+    Weapon_Sword_050:
+      Name: Thunderstorm Rod
+    Weapon_Sword_051:
+      Name: Boomerang
+    Weapon_Sword_052:
+      Name: Scimitar of the Seven
+    Weapon_Sword_053:
+      Name: Vicious Sickle
+    Weapon_Sword_056:
+      Name: Master Sword (Broken/Unequippable)
+    Weapon_Sword_057:
+      Name: Goddess Sword
+    Weapon_Sword_058:
+      Name: Hero's Sword (8-bit Link)
+    Weapon_Sword_059:
+      Name: Sea-Breeze Boomerang (Wind Waker)
+    Weapon_Sword_060:
+      Name: Fire Rod
+    Weapon_Sword_061:
+      Name: Ice Rod
+    Weapon_Sword_062:
+      Name: Lightning Rod
+    Weapon_Sword_070:
+      Name: Master Sword
+    Weapon_Sword_071:
+      Name: Master Sword (no near malice, no charge)
+    Weapon_Sword_072:
+      Name: Master Sword (near malice, no charge)
+    Weapon_Sword_073:
+      Name: Demon Carver
+    Weapon_Sword_500:
+      Name: Lantern
+    Weapon_Sword_502:
+      Name: OH Obliterator
+    Weapon_Lsword_001:
+      Name: Traveler's Claymore
+    Weapon_Lsword_002:
+      Name: Soldier's Claymore
+    Weapon_Lsword_003:
+      Name: Knight's Claymore
+    Weapon_Lsword_004:
+      Name: Boko Bat
+    Weapon_Lsword_005:
+      Name: Spiked Boko Bat
+    Weapon_Lsword_006:
+      Name: Dragonbone Boko Bat
+    Weapon_Lsword_010:
+      Name: Moblin Club
+    Weapon_Lsword_011:
+      Name: Spiked Moblin Club
+    Weapon_Lsword_012:
+      Name: Dragonbone Moblin Club
+    Weapon_Lsword_013:
+      Name: Ancient Battle Axe
+    Weapon_Lsword_014:
+      Name: Ancient Battle Axe+
+    Weapon_Lsword_015:
+      Name: Ancient Battle Axe++
+    Weapon_Lsword_016:
+      Name: Lynel Crusher
+    Weapon_Lsword_017:
+      Name: Mighty Lynel Crusher
+    Weapon_Lsword_018:
+      Name: Savage Lynel Crusher
+    Weapon_Lsword_019:
+      Name: Moblin Arm
+    Weapon_Lsword_020:
+      Name: Rusty Claymore
+    Weapon_Lsword_023:
+      Name: Ancient Bladesaw
+    Weapon_Lsword_024:
+      Name: Royal Claymore
+    Weapon_Lsword_027:
+      Name: Silver Longsword
+    Weapon_Lsword_029:
+      Name: Golden Claymore
+    Weapon_Lsword_030:
+      Name: Double Axe
+    Weapon_Lsword_031:
+      Name: Iron Sledgehammer
+    Weapon_Lsword_032:
+      Name: Woodcutter's Axe
+    Weapon_Lsword_033:
+      Name: Great Flameblade
+    Weapon_Lsword_034:
+      Name: Great Frostblade
+    Weapon_Lsword_035:
+      Name: Great Thunderblade
+    Weapon_Lsword_036:
+      Name: Cobble Crusher
+    Weapon_Lsword_037:
+      Name: Stone Smasher
+    Weapon_Lsword_038:
+      Name: Boat Oar
+    Weapon_Lsword_041:
+      Name: Eightfold Longblade
+    Weapon_Lsword_045:
+      Name: Farming Hoe
+    Weapon_Lsword_047:
+      Name: Royal Guard's Claymore
+    Weapon_Lsword_051:
+      Name: Giant Boomerang
+    Weapon_Lsword_054:
+      Name: Boulder Breaker
+    Weapon_Lsword_055:
+      Name: Edge of Duality
+    Weapon_Lsword_056:
+      Name: Korok Leaf
+    Weapon_Lsword_057:
+      Name: Sword of the Six Sages (Twilight Princess)
+    Weapon_Lsword_059:
+      Name: Biggoron's Sword (Ocarina of Time)
+    Weapon_Lsword_060:
+      Name: Fierce Deity Sword (Majora's Mask)
+    Weapon_Lsword_074:
+      Name: Windcleaver
+    Weapon_Spear_001:
+      Name: Traveler's Spear
+    Weapon_Spear_002:
+      Name: Soldier's Spear
+    Weapon_Spear_003:
+      Name: Knight's Halberd
+    Weapon_Spear_004:
+      Name: Boko Spear
+    Weapon_Spear_005:
+      Name: Spiked Boko Spear
+    Weapon_Spear_006:
+      Name: Dragonbone Boko Spear
+    Weapon_Spear_007:
+      Name: Lizal Spear
+    Weapon_Spear_008:
+      Name: Enhanced Lizal Spear
+    Weapon_Spear_009:
+      Name: Forked Lizal Spear
+    Weapon_Spear_010:
+      Name: Moblin Spear
+    Weapon_Spear_011:
+      Name: Spiked Moblin Spear
+    Weapon_Spear_012:
+      Name: Dragonbone Moblin Spear
+    Weapon_Spear_013:
+      Name: Guardian Spear
+    Weapon_Spear_014:
+      Name: Guardian Spear+
+    Weapon_Spear_015:
+      Name: Guardian Spear++
+    Weapon_Spear_016:
+      Name: Lynel Spear
+    Weapon_Spear_017:
+      Name: Mighty Lynel Spear
+    Weapon_Spear_018:
+      Name: Savage Lynel Spear
+    Weapon_Spear_021:
+      Name: Rusty Halberd
+    Weapon_Spear_022:
+      Name: Farmer's Pichfork
+    Weapon_Spear_023:
+      Name: Ancient Spear
+    Weapon_Spear_024:
+      Name: Royal Halberd
+    Weapon_Spear_025:
+      Name: Forest Dweller's Spear
+    Weapon_Spear_027:
+      Name: Zora Spear
+    Weapon_Spear_028:
+      Name: Silverscale Spear
+    Weapon_Spear_029:
+      Name: Gerudo Spear
+    Weapon_Spear_030:
+      Name: Throwing Spear
+    Weapon_Spear_031:
+      Name: Drillshaft
+    Weapon_Spear_032:
+      Name: Feathered Spear
+    Weapon_Spear_033:
+      Name: Flamespear
+    Weapon_Spear_034:
+      Name: Frostspear
+    Weapon_Spear_035:
+      Name: Thunderspear
+    Weapon_Spear_036:
+      Name: Wooden Mop
+    Weapon_Spear_037:
+      Name: Serpentine Spear
+    Weapon_Spear_038:
+      Name: Fishing Harpoon
+    Weapon_Spear_047:
+      Name: Royal Guard's Spear
+    Weapon_Spear_049:
+      Name: Ceremonial Trident
+    Weapon_Spear_050:
+      Name: Lightscale Trident
+  Bows:
+    Weapon_Bow_001:
+      Name: Traveler's Bow
+    Weapon_Bow_002:
+      Name: Soldier's Bow
+    Weapon_Bow_003:
+      Name: Spiked Boko Bow
+    Weapon_Bow_004:
+      Name: Boko Bow
+    Weapon_Bow_006:
+      Name: Lizal Bow
+    Weapon_Bow_009:
+      Name: Lynel Bow
+    Weapon_Bow_011:
+      Name: Strengthened Lizal Bow
+    Weapon_Bow_013:
+      Name: Forest Dweller's Bow
+    Weapon_Bow_014:
+      Name: Silver Bow
+    Weapon_Bow_015:
+      Name: Golden Bow
+    Weapon_Bow_016:
+      Name: Swallow Bow
+    Weapon_Bow_017:
+      Name: Falcon Bow
+    Weapon_Bow_023:
+      Name: Ancient Bow
+    Weapon_Bow_026:
+      Name: Mighty Lynel Bow
+    Weapon_Bow_027:
+      Name: Dragon Bone Boko Bow
+    Weapon_Bow_028:
+      Name: Great Eagle Bow
+    Weapon_Bow_029:
+      Name: Phrenic Bow
+    Weapon_Bow_030:
+      Name: Steel Lizal Bow
+    Weapon_Bow_032:
+      Name: Savage Lynel Bow
+    Weapon_Bow_033:
+      Name: Royal Guard's Bow
+    Weapon_Bow_035:
+      Name: Knight's Bow
+    Weapon_Bow_036:
+      Name: Royal Bow
+    Weapon_Bow_038:
+      Name: Wooden Bow
+    Weapon_Bow_040:
+      Name: Duplex Bow
+    Weapon_Bow_071:
+      Name: Bow of Light
+    Weapon_Bow_072:
+      Name: Twilight Bow (Twilight Princess)
+  Shields:
+    Weapon_Shield_001:
+      Name: Wooden Shield
+    Weapon_Shield_002:
+      Name: Soldier's Shield
+    Weapon_Shield_003:
+      Name: Knight's Shield
+    Weapon_Shield_004:
+      Name: Boko Shield
+    Weapon_Shield_005:
+      Name: Spiked Boko Shield
+    Weapon_Shield_006:
+      Name: Dragonbone Boko Shield
+    Weapon_Shield_007:
+      Name: Lizal Shield
+    Weapon_Shield_008:
+      Name: Reinforced Lizal Shield
+    Weapon_Shield_009:
+      Name: Steel Lizal Shield
+    Weapon_Shield_013:
+      Name: Guardian Shield
+    Weapon_Shield_014:
+      Name: Guardian Shield+
+    Weapon_Shield_015:
+      Name: Guardian Shield++
+    Weapon_Shield_016:
+      Name: Lynel Shield
+    Weapon_Shield_017:
+      Name: Mighty Lynel Shield
+    Weapon_Shield_018:
+      Name: Savage Lynel Shield
+    Weapon_Shield_021:
+      Name: Rusty Shield
+    Weapon_Shield_022:
+      Name: Royal Shield
+    Weapon_Shield_023:
+      Name: Forest Dweller's Shield
+    Weapon_Shield_025:
+      Name: Silver Shield
+    Weapon_Shield_026:
+      Name: Gerudo Shield
+    Weapon_Shield_030:
+      Name: Hylian Shield
+    Weapon_Shield_031:
+      Name: Hunter's Shield
+    Weapon_Shield_032:
+      Name: Fisherman's Shield
+    Weapon_Shield_033:
+      Name: Royal Guard's Shield
+    Weapon_Shield_034:
+      Name: Emblazoned Shield
+    Weapon_Shield_035:
+      Name: Traveler's Shield
+    Weapon_Shield_036:
+      Name: Radiant Shield
+    Weapon_Shield_037:
+      Name: Daybreaker
+    Weapon_Shield_038:
+      Name: Ancient Shield
+    Weapon_Shield_040:
+      Name: Pot Lid
+    Weapon_Shield_041:
+      Name: Shield of the Mind's Eye
+    Weapon_Shield_042:
+      Name: Kite Shield
+    Weapon_Shield_057:
+      Name: Hero's Shield (Wind Waker)
+  Armor:
+    Armor_001_Head:
+      Name: Hylian Hood
+    Armor_001_Upper:
+      Name: Hylian Tunic
+    Armor_001_Lower:
+      Name: Hylian Trousers
+    Armor_002_Head:
+      Name: Hylian Hood *
+    Armor_002_Upper:
+      Name: Hylian Tunic *
+    Armor_002_Lower:
+      Name: Hylian Trousers *
+    Armor_003_Head:
+      Name: Hylian Hood **
+    Armor_003_Upper:
+      Name: Hylian Tunic **
+    Armor_003_Lower:
+      Name: Hylian Trousers **
+    Armor_004_Head:
+      Name: Hylian Hood ***
+    Armor_004_Upper:
+      Name: Hylian Tunic ***
+    Armor_004_Lower:
+      Name: Hylian Trousers ***
+    Armor_005_Head:
+      Name: Cap of the Wild
+    Armor_005_Upper:
+      Name: Tunic of the Wild
+    Armor_005_Lower:
+      Name: Trousers of the Wild
+    Armor_006_Head:
+      Name: Zora Helm
+    Armor_006_Upper:
+      Name: Zora Armor
+    Armor_006_Lower:
+      Name: Zora Greaves
+    Armor_007_Head:
+      Name: Zora Helm *
+    Armor_007_Upper:
+      Name: Zora Armor *
+    Armor_007_Lower:
+      Name: Zora Greaves *
+    Armor_008_Head:
+      Name: Desert Voe Headband
+    Armor_008_Upper:
+      Name: Desert Voe Spaulder
+    Armor_008_Lower:
+      Name: Desert Voe Trousers
+    Armor_009_Head:
+      Name: Snowquill Headdress
+    Armor_009_Upper:
+      Name: Snowquill Tunic
+    Armor_009_Lower:
+      Name: Snowquill Trousers
+    Armor_011_Head:
+      Name: Flamebreaker Helm
+    Armor_011_Upper:
+      Name: Flamebreaker Armor
+    Armor_011_Lower:
+      Name: Flamebreaker Boots
+    Armor_012_Head:
+      Name: Stealth Mask
+    Armor_012_Upper:
+      Name: Stealth Chest Guard
+    Armor_012_Lower:
+      Name: Stealth Tights
+    Armor_014_Head:
+      Name: Climber's Bandanna
+    Armor_014_Upper:
+      Name: Climbing Gear
+    Armor_014_Lower:
+      Name: Climbing Boots
+    Armor_015_Head:
+      Name: Hylian Hood ****
+    Armor_015_Upper:
+      Name: Hylian Tunic ****
+    Armor_015_Lower:
+      Name: Hylian Trousers ****
+    Armor_017_Head:
+      Name: Radiant Mask
+    Armor_017_Upper:
+      Name: Radiant Shirt
+    Armor_017_Lower:
+      Name: Radiant Tights
+    Armor_020_Head:
+      Name: Soldier's Helm
+    Armor_020_Upper:
+      Name: Soldier's Armor
+    Armor_020_Lower:
+      Name: Soldier's Greaves
+    Armor_021_Head:
+      Name: Ancient Helm
+    Armor_021_Upper:
+      Name: Ancient Cuirass
+    Armor_021_Lower:
+      Name: Ancient Greaves
+    Armor_022_Head:
+      Name: Bokoblin Mask
+    Armor_024_Head:
+      Name: Diamond Circlet
+    Armor_025_Head:
+      Name: Ruby Circlet
+    Armor_026_Head:
+      Name: Sapphire Circlet
+    Armor_027_Head:
+      Name: Topaz Earrings
+    Armor_028_Head:
+      Name: Opal Earrings
+    Armor_029_Head:
+      Name: Amber Earrings
+    Armor_035_Head:
+      Name: Cap of the Wild *
+    Armor_035_Upper:
+      Name: Tunic of the Wild *
+    Armor_035_Lower:
+      Name: Trousers of the Wild *
+    Armor_036_Head:
+      Name: Snowquill Headdress *
+    Armor_036_Upper:
+      Name: Snowquill Tunic *
+    Armor_036_Lower:
+      Name: Snowquill Trousers *
+    Armor_037_Head:
+      Name: Flamebreaker Helm *
+    Armor_037_Upper:
+      Name: Flamebreaker Armor *
+    Armor_037_Lower:
+      Name: Flamebreaker Boots *
+    Armor_039_Head:
+      Name: Cap of the Wild **
+    Armor_039_Upper:
+      Name: Tunic of the Wild **
+    Armor_039_Lower:
+      Name: Trousers of the Wild **
+    Armor_040_Head:
+      Name: Desert Voe Headband *
+    Armor_040_Upper:
+      Name: Desert Voe Spaulder *
+    Armor_040_Lower:
+      Name: Desert Voe Trousers *
+    Armor_042_Head:
+      Name: Stealth Mask *
+    Armor_042_Upper:
+      Name: Stealth Chest Guard *
+    Armor_042_Lower:
+      Name: Stealth Tights *
+    Armor_043_Upper:
+      Name: Old Shirt
+    Armor_043_Lower:
+      Name: Well-Worn Trousers
+    Armor_044_Upper:
+      Name: Warm Doublet
+    Armor_045_Head:
+      Name: Moblin Mask
+    Armor_046_Head:
+      Name: Rubber Helm
+    Armor_046_Upper:
+      Name: Rubber Armor
+    Armor_046_Lower:
+      Name: Rubber Tights
+    Armor_048_Head:
+      Name: Barbarian Helm
+    Armor_048_Upper:
+      Name: Barbarian Armor
+    Armor_048_Lower:
+      Name: Barbarian Wraps
+    Armor_049_Lower:
+      Name: Sand Boots
+    Armor_053_Head:
+      Name: Gerudo Veil
+    Armor_053_Upper:
+      Name: Gerudo Top
+    Armor_053_Lower:
+      Name: Gerudo Sirwal
+    Armor_055_Head:
+      Name: Lizalfos Mask
+    Armor_056_Head:
+      Name: Lynel Mask
+    Armor_060_Head:
+      Name: Cap of the Wild ***
+    Armor_060_Upper:
+      Name: Tunic of the Wild ***
+    Armor_060_Lower:
+      Name: Trousers of the Wild ***
+    Armor_061_Head:
+      Name: Cap of the Wild ****
+    Armor_061_Upper:
+      Name: Tunic of the Wild ****
+    Armor_061_Lower:
+      Name: Trousers of the Wild ****
+    Armor_062_Head:
+      Name: Zora Helm **
+    Armor_062_Upper:
+      Name: Zora Armor **
+    Armor_062_Lower:
+      Name: Zora Greaves **
+    Armor_063_Head:
+      Name: Zora Helm ***
+    Armor_063_Upper:
+      Name: Zora Armor ***
+    Armor_063_Lower:
+      Name: Zora Greaves ***
+    Armor_064_Head:
+      Name: Zora Helm ****
+    Armor_064_Upper:
+      Name: Zora Armor ****
+    Armor_064_Lower:
+      Name: Zora Greaves ****
+    Armor_065_Head:
+      Name: Desert Voe Headband **
+    Armor_065_Upper:
+      Name: Desert Voe Spaulder **
+    Armor_065_Lower:
+      Name: Desert Voe Trousers **
+    Armor_066_Head:
+      Name: Desert Voe Headband ***
+    Armor_066_Upper:
+      Name: Desert Voe Spaulder ***
+    Armor_066_Lower:
+      Name: Desert Voe Trousers ***
+    Armor_067_Head:
+      Name: Desert Voe Headband ****
+    Armor_067_Upper:
+      Name: Desert Voe Spaulder ****
+    Armor_067_Lower:
+      Name: Desert Voe Trousers ****
+    Armor_071_Head:
+      Name: Snowquill Headdress **
+    Armor_071_Upper:
+      Name: Snowquill Tunic **
+    Armor_071_Lower:
+      Name: Snowquill Trousers **
+    Armor_072_Head:
+      Name: Snowquill Headdress ***
+    Armor_072_Upper:
+      Name: Snowquill Tunic ***
+    Armor_072_Lower:
+      Name: Snowquill Trousers ***
+    Armor_073_Head:
+      Name: Snowquill Headdress ****
+    Armor_073_Upper:
+      Name: Snowquill Tunic ****
+    Armor_073_Lower:
+      Name: Snowquill Trousers ****
+    Armor_074_Head:
+      Name: Flamebreaker Helm **
+    Armor_074_Upper:
+      Name: Flamebreaker Armor **
+    Armor_074_Lower:
+      Name: Flamebreaker Boots **
+    Armor_075_Head:
+      Name: Flamebreaker Helm ***
+    Armor_075_Upper:
+      Name: Flamebreaker Armor ***
+    Armor_075_Lower:
+      Name: Flamebreaker Boots ***
+    Armor_076_Head:
+      Name: Flamebreaker Helm ****
+    Armor_076_Upper:
+      Name: Flamebreaker Armor ****
+    Armor_076_Lower:
+      Name: Flamebreaker Boots ****
+    Armor_077_Head:
+      Name: Stealth Mask **
+    Armor_077_Upper:
+      Name: Stealth Chest Guard **
+    Armor_077_Lower:
+      Name: Stealth Tights **
+    Armor_078_Head:
+      Name: Stealth Mask ***
+    Armor_078_Upper:
+      Name: Stealth Chest Guard ***
+    Armor_078_Lower:
+      Name: Stealth Tights ***
+    Armor_079_Head:
+      Name: Stealth Mask ****
+    Armor_079_Upper:
+      Name: Stealth Chest Guard ****
+    Armor_079_Lower:
+      Name: Stealth Tights ****
+    Armor_083_Head:
+      Name: Climber's Bandanna *
+    Armor_083_Upper:
+      Name: Climbing Gear *
+    Armor_083_Lower:
+      Name: Climbing Boots *
+    Armor_084_Head:
+      Name: Climber's Bandanna **
+    Armor_084_Upper:
+      Name: Climbing Gear **
+    Armor_084_Lower:
+      Name: Climbing Boots **
+    Armor_085_Head:
+      Name: Climber's Bandanna ***
+    Armor_085_Upper:
+      Name: Climbing Gear ***
+    Armor_085_Lower:
+      Name: Climbing Boots ***
+    Armor_086_Head:
+      Name: Climber's Bandanna ****
+    Armor_086_Upper:
+      Name: Climbing Gear ****
+    Armor_086_Lower:
+      Name: Climbing Boots ****
+    Armor_087_Head:
+      Name: Radiant Mask *
+    Armor_087_Upper:
+      Name: Radiant Shirt *
+    Armor_087_Lower:
+      Name: Radiant Tights *
+    Armor_088_Head:
+      Name: Radiant Mask **
+    Armor_088_Upper:
+      Name: Radiant Shirt **
+    Armor_088_Lower:
+      Name: Radiant Tights **
+    Armor_089_Head:
+      Name: Radiant Mask ***
+    Armor_089_Upper:
+      Name: Radiant Shirt ***
+    Armor_089_Lower:
+      Name: Radiant Tights ***
+    Armor_090_Head:
+      Name: Radiant Mask ****
+    Armor_090_Upper:
+      Name: Radiant Shirt ****
+    Armor_090_Lower:
+      Name: Radiant Tights ****
+    Armor_095_Head:
+      Name: Soldier's Helm *
+    Armor_095_Upper:
+      Name: Soldier's Armor *
+    Armor_095_Lower:
+      Name: Soldier's Greaves *
+    Armor_096_Head:
+      Name: Soldier's Helm **
+    Armor_096_Upper:
+      Name: Soldier's Armor **
+    Armor_096_Lower:
+      Name: Soldier's Greaves **
+    Armor_097_Head:
+      Name: Soldier's Helm ***
+    Armor_097_Upper:
+      Name: Soldier's Armor ***
+    Armor_097_Lower:
+      Name: Soldier's Greaves ***
+    Armor_098_Head:
+      Name: Soldier's Helm ****
+    Armor_098_Upper:
+      Name: Soldier's Armor ****
+    Armor_098_Lower:
+      Name: Soldier's Greaves ****
+    Armor_099_Head:
+      Name: Ancient Helm *
+    Armor_099_Upper:
+      Name: Ancient Cuirass *
+    Armor_099_Lower:
+      Name: Ancient Greaves *
+    Armor_100_Head:
+      Name: Ancient Helm **
+    Armor_100_Upper:
+      Name: Ancient Cuirass **
+    Armor_100_Lower:
+      Name: Ancient Greaves **
+    Armor_101_Head:
+      Name: Ancient Helm ***
+    Armor_101_Upper:
+      Name: Ancient Cuirass ***
+    Armor_101_Lower:
+      Name: Ancient Greaves ***
+    Armor_102_Head:
+      Name: Ancient Helm ****
+    Armor_102_Upper:
+      Name: Ancient Cuirass ****
+    Armor_102_Lower:
+      Name: Ancient Greaves ****
+    Armor_103_Head:
+      Name: Rubber Helm *
+    Armor_103_Upper:
+      Name: Rubber Armor *
+    Armor_103_Lower:
+      Name: Rubber Tights *
+    Armor_104_Head:
+      Name: Rubber Helm **
+    Armor_104_Upper:
+      Name: Rubber Armor **
+    Armor_104_Lower:
+      Name: Rubber Tights **
+    Armor_105_Head:
+      Name: Rubber Helm ***
+    Armor_105_Upper:
+      Name: Rubber Armor ***
+    Armor_105_Lower:
+      Name: Rubber Tights ***
+    Armor_106_Head:
+      Name: Rubber Helm ****
+    Armor_106_Upper:
+      Name: Rubber Armor ****
+    Armor_106_Lower:
+      Name: Rubber Tights ****
+    Armor_111_Head:
+      Name: Barbarian Helm *
+    Armor_111_Upper:
+      Name: Barbarian Armor *
+    Armor_111_Lower:
+      Name: Barbarian Wraps *
+    Armor_112_Head:
+      Name: Barbarian Helm **
+    Armor_112_Upper:
+      Name: Barbarian Armor **
+    Armor_112_Lower:
+      Name: Barbarian Wraps **
+    Armor_113_Head:
+      Name: Barbarian Helm ***
+    Armor_113_Upper:
+      Name: Barbarian Armor ***
+    Armor_113_Lower:
+      Name: Barbarian Wraps ***
+    Armor_114_Head:
+      Name: Barbarian Helm ****
+    Armor_114_Upper:
+      Name: Barbarian Armor ****
+    Armor_114_Lower:
+      Name: Barbarian Wraps ****
+    Armor_115_Head:
+      Name: Thunder Helm
+    Armor_116_Upper:
+      Name: Champion's Tunic
+    Armor_117_Head:
+      Name: Diamond Circlet *
+    Armor_118_Head:
+      Name: Diamond Circlet **
+    Armor_119_Head:
+      Name: Diamond Circlet ***
+    Armor_120_Head:
+      Name: Diamond Circlet ****
+    Armor_121_Head:
+      Name: Ruby Circlet *
+    Armor_122_Head:
+      Name: Ruby Circlet **
+    Armor_123_Head:
+      Name: Ruby Circlet ***
+    Armor_124_Head:
+      Name: Ruby Circlet ****
+    Armor_125_Head:
+      Name: Sapphire Circlet *
+    Armor_126_Head:
+      Name: Sapphire Circlet **
+    Armor_127_Head:
+      Name: Sapphire Circlet ***
+    Armor_128_Head:
+      Name: Sapphire Circlet ****
+    Armor_129_Head:
+      Name: Topaz Earrings *
+    Armor_130_Head:
+      Name: Topaz Earrings **
+    Armor_131_Head:
+      Name: Topaz Earrings ***
+    Armor_132_Head:
+      Name: Topaz Earrings ****
+    Armor_133_Head:
+      Name: Opal Earrings *
+    Armor_134_Head:
+      Name: Opal Earrings **
+    Armor_135_Head:
+      Name: Opal Earrings ***
+    Armor_136_Head:
+      Name: Opal Earrings ****
+    Armor_137_Head:
+      Name: Amber Earrings *
+    Armor_138_Head:
+      Name: Amber Earrings **
+    Armor_139_Head:
+      Name: Amber Earrings ***
+    Armor_140_Head:
+      Name: Amber Earrings ****
+    Armor_140_Lower:
+      Name: Snow Boots
+    Armor_141_Lower:
+      Name: Snow Boots
+    Armor_148_Upper:
+      Name: Champion's Tunic *
+    Armor_149_Upper:
+      Name: Champion's Tunic **
+    Armor_150_Upper:
+      Name: Champion's Tunic ***
+    Armor_151_Upper:
+      Name: Champion's Tunic ****
+    Armor_152_Lower:
+      Name: Sand Boots *
+    Armor_153_Lower:
+      Name: Sand Boots **
+    Armor_154_Lower:
+      Name: Sand Boots ***
+    Armor_155_Lower:
+      Name: Sand Boots ****
+    Armor_156_Lower:
+      Name: Snow Boots *
+    Armor_157_Lower:
+      Name: Snow Boots **
+    Armor_158_Lower:
+      Name: Snow Boots ***
+    Armor_159_Lower:
+      Name: Snow Boots ****
+    Armor_160_Head:
+      Name: Dark Hood
+    Armor_160_Upper:
+      Name: Dark Tunic
+    Armor_160_Lower:
+      Name: Dark Trousers
+    Armor_168_Head:
+      Name: Vah Naboris Divine Helm ***
+    Armor_169_Head:
+      Name: Vah Naboris Divine Helm ****
+    Armor_170_Upper:
+      Name: Nintendo Switch Shirt
+    Armor_171_Head:
+      Name: Phantom Helmet
+    Armor_171_Upper:
+      Name: Phantom Armor
+    Armor_171_Lower:
+      Name: Phantom Greaves
+    Armor_172_Head:
+      Name: Majora's Mask
+    Armor_173_Head:
+      Name: Midna's Helmet
+    Armor_174_Head:
+      Name: Tingle's Hood
+    Armor_174_Upper:
+      Name: Tingle's Shirt
+    Armor_174_Lower:
+      Name: Tingle's Tights
+    Armor_175_Upper:
+      Name: Island Lobster Shirt
+    Armor_176_Head:
+      Name: Korok Mask
+    Armor_177_Head:
+      Name: Ravios Hood
+    Armor_178_Head:
+      Name: Zant's Helmet
+    Armor_179_Head:
+      Name: Royal Guard Cap
+    Armor_179_Upper:
+      Name: Royal Guard Uniform
+    Armor_179_Lower:
+      Name: Royal Guard Boots
+    Armor_180_Head:
+      Name: Phantom Ganon Skull
+    Armor_180_Upper:
+      Name: Phantom Ganon Armor
+    Armor_180_Lower:
+      Name: Phantom Ganon Greaves
+    Armor_181_Head:
+      Name: Vah Ruta's Devine Helm
+    Armor_182_Head:
+      Name: Vah Medoh Divine Helm
+    Armor_183_Head:
+      Name: Vah Rudania Divine Helm
+    Armor_184_Head:
+      Name: Vah Naboris Divine Helm
+    Armor_185_Head:
+      Name: Salvager Headwear
+    Armor_185_Upper:
+      Name: Salvager Vest
+    Armor_185_Lower:
+      Name: Salvager Trousers
+    Armor_186_Head:
+      Name: Vah Ruta's Devine Helm *
+    Armor_187_Head:
+      Name: Vah Ruta's Devine Helm **
+    Armor_188_Head:
+      Name: Vah Ruta's Devine Helm ***
+    Armor_189_Head:
+      Name: Vah Ruta's Devine Helm ****
+    Armor_190_Head:
+      Name: Vah Medoh Divine Helm *
+    Armor_191_Head:
+      Name: Vah Medoh Divine Helm **
+    Armor_192_Head:
+      Name: Vah Medoh Divine Helm ***
+    Armor_193_Head:
+      Name: Vah Medoh Divine Helm ****
+    Armor_194_Head:
+      Name: Vah Rudania Divine Helm *
+    Armor_195_Head:
+      Name: Vah Rudania Divine Helm **
+    Armor_196_Head:
+      Name: Vah Rudania Divine Helm ***
+    Armor_197_Head:
+      Name: Vah Rudania Divine Helm ****
+    Armor_198_Head:
+      Name: Vah Naboris Divine Helm *
+    Armor_199_Head:
+      Name: Vah Naboris Divine Helm **
+    Armor_200_Head:
+      Name: Cap of Time
+    Armor_200_Upper:
+      Name: Tunic of Time
+    Armor_200_Lower:
+      Name: Trousers of Time
+    Armor_201_Head:
+      Name: Cap of Time *
+    Armor_201_Upper:
+      Name: Tunic of Time *
+    Armor_201_Lower:
+      Name: Trousers of Time *
+    Armor_202_Head:
+      Name: Cap of Time **
+    Armor_202_Upper:
+      Name: Tunic of Time **
+    Armor_202_Lower:
+      Name: Trousers of Time **
+    Armor_203_Head:
+      Name: Cap of Time ***
+    Armor_203_Upper:
+      Name: Tunic of Time ***
+    Armor_203_Lower:
+      Name: Trousers of Time ***
+    Armor_204_Head:
+      Name: Cap of Time ****
+    Armor_204_Upper:
+      Name: Tunic of Time ****
+    Armor_204_Lower:
+      Name: Trousers of Time ****
+    Armor_205_Head:
+      Name: Cap of Wind
+    Armor_205_Upper:
+      Name: Tunic of Wind
+    Armor_205_Lower:
+      Name: Trousers of Wind
+    Armor_206_Head:
+      Name: Cap of Wind *
+    Armor_206_Upper:
+      Name: Tunic of Wind *
+    Armor_206_Lower:
+      Name: Trousers of Wind *
+    Armor_207_Head:
+      Name: Cap of Wind **
+    Armor_207_Upper:
+      Name: Tunic of Wind **
+    Armor_207_Lower:
+      Name: Trousers of Wind **
+    Armor_208_Head:
+      Name: Cap of Wind ***
+    Armor_208_Upper:
+      Name: Tunic of Wind ***
+    Armor_208_Lower:
+      Name: Trousers of Wind ***
+    Armor_209_Head:
+      Name: Cap of Wind ****
+    Armor_209_Upper:
+      Name: Tunic of Wind ****
+    Armor_209_Lower:
+      Name: Trousers of Wind ****
+    Armor_210_Head:
+      Name: Cap of Twilight
+    Armor_210_Upper:
+      Name: Tunic of Twilight
+    Armor_210_Lower:
+      Name: Trousers of Twilight
+    Armor_211_Head:
+      Name: Cap of Twilight *
+    Armor_211_Upper:
+      Name: Tunic of Twilight *
+    Armor_211_Lower:
+      Name: Trousers of Twilight *
+    Armor_212_Head:
+      Name: Cap of Twilight **
+    Armor_212_Upper:
+      Name: Tunic of Twilight **
+    Armor_212_Lower:
+      Name: Trousers of Twilight **
+    Armor_213_Head:
+      Name: Cap of Twilight ***
+    Armor_213_Upper:
+      Name: Tunic of Twilight ***
+    Armor_213_Lower:
+      Name: Trousers of Twilight ***
+    Armor_214_Head:
+      Name: Cap of Twilight ****
+    Armor_214_Upper:
+      Name: Tunic of Twilight ****
+    Armor_214_Lower:
+      Name: Trousers of Twilight ****
+    Armor_215_Head:
+      Name: Cap of the Sky
+    Armor_215_Upper:
+      Name: Tunic of the Sky
+    Armor_215_Lower:
+      Name: Trousers of the Sky
+    Armor_216_Head:
+      Name: Cap of the Sky *
+    Armor_216_Upper:
+      Name: Tunic of the Sky *
+    Armor_216_Lower:
+      Name: Trousers of the Sky *
+    Armor_217_Head:
+      Name: Cap of the Sky **
+    Armor_217_Upper:
+      Name: Tunic of the Sky **
+    Armor_217_Lower:
+      Name: Trousers of the Sky **
+    Armor_218_Head:
+      Name: Cap of the Sky ***
+    Armor_218_Upper:
+      Name: Tunic of the Sky ***
+    Armor_218_Lower:
+      Name: Trousers of the Sky ***
+    Armor_219_Head:
+      Name: Cap of the Sky ****
+    Armor_219_Upper:
+      Name: Tunic of the Sky ****
+    Armor_219_Lower:
+      Name: Trousers of the Sky ****
+    Armor_220_Head:
+      Name: Sheik's Mask
+    Armor_221_Head:
+      Name: Sheik's Mask *
+    Armor_222_Head:
+      Name: Sheik's Mask **
+    Armor_223_Head:
+      Name: Sheik's Mask ***
+    Armor_224_Head:
+      Name: Sheik's Mask ****
+    Armor_225_Head:
+      Name: Fierce Deity's Mask
+    Armor_225_Upper:
+      Name: Fierce Deity's Armor
+    Armor_225_Lower:
+      Name: Fierce Deity's Boots
+    Armor_226_Head:
+      Name: Fierce Deity's Mask *
+    Armor_226_Upper:
+      Name: Fierce Deity's Armor *
+    Armor_226_Lower:
+      Name: Fierce Deity's Boots *
+    Armor_227_Head:
+      Name: Fierce Deity's Mask **
+    Armor_227_Upper:
+      Name: Fierce Deity's Armor **
+    Armor_227_Lower:
+      Name: Fierce Deity's Boots **
+    Armor_228_Head:
+      Name: Fierce Deity's Mask ***
+    Armor_228_Upper:
+      Name: Fierce Deity's Armor ***
+    Armor_228_Lower:
+      Name: Fierce Deity's Boots ***
+    Armor_229_Head:
+      Name: Fierce Deity's Mask ****
+    Armor_229_Upper:
+      Name: Fierce Deity's Armor ****
+    Armor_229_Lower:
+      Name: Fierce Deity's Boots ****
+    Armor_230_Head:
+      Name: Cap of the Hero
+    Armor_230_Upper:
+      Name: Tunic of the Hero
+    Armor_230_Lower:
+      Name: Trousers of the Hero
+    Armor_231_Head:
+      Name: Cap of the Hero *
+    Armor_231_Upper:
+      Name: Tunic of the Hero *
+    Armor_231_Lower:
+      Name: Trousers of the Hero *
+    Armor_232_Head:
+      Name: Cap of the Hero **
+    Armor_232_Upper:
+      Name: Tunic of the Hero **
+    Armor_232_Lower:
+      Name: Trousers of the Hero **
+    Armor_233_Head:
+      Name: Cap of the Hero ***
+    Armor_233_Upper:
+      Name: Tunic of the Hero ***
+    Armor_233_Lower:
+      Name: Trousers of the Hero ***
+    Armor_234_Head:
+      Name: Cap of the Hero ****
+    Armor_234_Upper:
+      Name: Tunic of the Hero ****
+    Armor_234_Lower:
+      Name: Trousers of the Hero ****
+    Armor_500_Upper:
+      Name: Mini?
+    Armor_501_Lower:
+      Name: Mini?
+    Armor_501_Upper:
+      Name: Mini?
+    Armor_502_Upper:
+      Name: Mini?
+  Arrows:
+    NormalArrow:
+      Name: Arrow
+    FireArrow:
+      Name: Fire Arrow
+    IceArrow:
+      Name: Ice Arrow
+    ElectricArrow:
+      Name: Shock Arrow
+    BombArrow_A:
+      Name: Bomb Arrow
+    AncientArrow:
+      Name: Ancient Arrow
+  Materials:
+    Item_Fruit_A:
+      Name: Apple
+    Item_Fruit_B:
+      Name: Wildberry
+    Item_Fruit_C:
+      Name: Voltfruit
+    Item_Fruit_D:
+      Name: Hearty Durian
+    Item_Fruit_E:
+      Name: Fleet-Lotus Seeds
+    Item_Fruit_E_00:
+      Name: Fleet-Lotus Seeds x0
+    Item_Fruit_F:
+      Name: Hydromelon
+    Item_Fruit_G:
+      Name: Palm Fruit
+    Item_Fruit_H:
+      Name: Mighty Bananas
+    Item_Fruit_I:
+      Name: Spicy Pepper
+    Item_Fruit_J:
+      Name: Fortified Pumpkin
+    Item_Fruit_K:
+      Name: Acorn
+    Item_Fruit_L:
+      Name: Chickaloo Tree Nut
+    Item_Mushroom_A:
+      Name: Stamella Mushroom
+    Item_MushroomGet_A:
+      Name: Stamella Mushroom
+    Item_Mushroom_B:
+      Name: Chillshroom
+    Item_MushroomGet_B:
+      Name: Chillshroom
+    Item_Mushroom_C:
+      Name: Sunshroom
+    Item_MushroomGet_C:
+      Name: Sunshroom
+    Item_Mushroom_D:
+      Name: Rushroom
+    Item_MushroomGet_D:
+      Name: Rushroom
+    Item_Mushroom_E:
+      Name: Hylian Mushroom
+    Item_MushroomGet_E:
+      Name: Hylian Mushroom
+    Item_Mushroom_F:
+      Name: Hearty Truffle
+    Item_Mushroom_F_00:
+      Name: Hearty Truffle x0
+    Item_MushroomGet_F:
+      Name: Hearty Truffle
+    Item_Mushroom_H:
+      Name: Zapshroom
+    Item_MushroomGet_H:
+      Name: Zapshroom
+    Item_Mushroom_J:
+      Name: Silent Shroom
+    Item_MushroomGet_J:
+      Name: Silent Shroom
+    Item_Mushroom_L:
+      Name: Razorshroom
+    Item_MushroomGet_L:
+      Name: Razorshroom
+    Item_Mushroom_M:
+      Name: Ironshroom
+    Item_MushroomGet_M:
+      Name: Ironshroom
+    Item_Mushroom_N:
+      Name: Big Hearty Truffle
+    Item_MushroomGet_N:
+      Name: Big Hearty Truffle
+    Item_Mushroom_N_00:
+      Name: Big Hearty Truffle x0
+    Item_Mushroom_O:
+      Name: Endura Shroom
+    Item_MushroomGet_O:
+      Name: Endura Shroom
+    Item_Plant_A:
+      Name: Hyrule Herb
+    Item_PlantGet_A:
+      Name: Hyrule Herb
+    Item_Plant_B:
+      Name: Hearty Radish
+    Item_PlantGet_B:
+      Name: Hearty Radish
+    Item_Plant_C:
+      Name: Big Hearty Radish
+    Item_PlantGet_C:
+      Name: Big Hearty Radish
+    Item_Plant_E:
+      Name: Cool Safflina
+    Item_PlantGet_E:
+      Name: Cool Safflina
+    Item_Plant_F:
+      Name: Warm Safflina
+    Item_PlantGet_F:
+      Name: Warm Safflina
+    Item_Plant_G:
+      Name: Mighty Thistle
+    Item_PlantGet_G:
+      Name: Mighty Thistle
+    Item_Plant_H:
+      Name: Armoranth
+    Item_PlantGet_H:
+      Name: Armoranth
+    Item_Plant_I:
+      Name: Blue Nightshade
+    Item_PlantGet_I:
+      Name: Blue Nightshade
+    Item_Plant_J:
+      Name: Silent Princess
+    Item_PlantGet_J:
+      Name: Silent Princess
+    Item_Plant_L:
+      Name: Electric Safflina
+    Item_PlantGet_L:
+      Name: Electric Safflina
+    Item_Plant_M:
+      Name: Swift Carrot
+    Item_PlantGet_M:
+      Name: Swift Carrot
+    Item_Plant_O:
+      Name: Swift Violet
+    Item_PlantGet_O:
+      Name: Swift Violet
+    Item_Plant_Q:
+      Name: Endura Carrot
+    Item_PlantGet_Q:
+      Name: Endura Carrot
+    Item_Meat_01:
+      Name: Raw Meat
+    Item_Meat_02:
+      Name: Raw Prime Meat
+    Item_Meat_06:
+      Name: Raw Bird Drumstick
+    Item_Meat_07:
+      Name: Raw Bird Thigh
+    Item_Meat_11:
+      Name: Raw Gourmet Meat
+    Item_Meat_12:
+      Name: Raw Whole Meat
+    Item_FishGet_A:
+      Name: Hylian Bass
+    Item_FishGet_B:
+      Name: Hearty Bass
+    Item_FishGet_C:
+      Name: Chillfin Trout
+    Item_FishGet_D:
+      Name: Voltfin Trout
+    Item_FishGet_E:
+      Name: Mighty Carp
+    Item_FishGet_F:
+      Name: Mighty Porgy
+    Item_FishGet_G:
+      Name: Armored Porgy
+    Item_FishGet_H:
+      Name: Armored Carp
+    Item_FishGet_I:
+      Name: Hearty Salmon
+    Item_FishGet_J:
+      Name: Sizzlefin Trout
+    Item_FishGet_K:
+      Name: Hearty Blueshell Snail
+    Item_FishGet_L:
+      Name: Staminoka Bass
+    Item_FishGet_M:
+      Name: Sneaky River Snail
+    Item_FishGet_X:
+      Name: Stealthfin Trout
+    Item_FishGet_Z:
+      Name: Sanke Carp
+    Animal_Insect_A:
+      Name: Hot-Footed Frog
+    Item_InsectGet_A:
+      Name: Hot-Footed Frog
+    Animal_Insect_B:
+      Name: Tireless Frog
+    Item_InsectGet_B:
+      Name: Tireless Frog
+    Animal_Insect_C:
+      Name: Cold Darner
+    Item_InsectGet_C:
+      Name: Cold Darner
+    Animal_Insect_E:
+      Name: Sunset Firefly
+    Item_InsectGet_E:
+      Name: Sunset Firefly
+    Animal_Insect_F:
+      Name: Fairy
+    Item_InsectGet_F:
+      Name: Fairy
+    Animal_Insect_G:
+      Name: Bladed Rhino Beetle
+    Item_InsectGet_G:
+      Name: Bladed Rhino Beetle
+    Animal_Insect_H:
+      Name: Restless Cricket
+    Item_InsectGet_H:
+      Name: Restless Cricket
+    Animal_Insect_I:
+      Name: Electric Darner
+    Item_InsectGet_I:
+      Name: Electric Darner
+    Animal_Insect_K:
+      Name: Razorclaw Crab
+    Item_InsectGet_K:
+      Name: Razorclaw Crab
+    Animal_Insect_M:
+      Name: Hearty Lizard
+    Item_InsectGet_M:
+      Name: Hearty Lizard
+    Animal_Insect_N:
+      Name: Winterwing Butterfly
+    Item_InsectGet_N:
+      Name: Winterwing Butterfly
+    Animal_Insect_O:
+      Name: Ironshell Crab
+    Item_InsectGet_O:
+      Name: Ironshell Crab
+    Animal_Insect_P:
+      Name: Rugged Rhino Beetle
+    Item_InsectGet_P:
+      Name: Rugged Rhino Beetle
+    Animal_Insect_Q:
+      Name: Summerwing Butterfly
+    Item_InsectGet_Q:
+      Name: Summerwing Butterfly
+    Animal_Insect_R:
+      Name: Thunderwing Butterfly
+    Item_InsectGet_R:
+      Name: Thunderwing Butterfly
+    Animal_Insect_S:
+      Name: Hightail Lizard
+    Item_InsectGet_S:
+      Name: Hightail Lizard
+    Animal_Insect_T:
+      Name: Warm Darner
+    Item_InsectGet_T:
+      Name: Warm Darner
+    Animal_Insect_X:
+      Name: Fireproof Lizard
+    Item_InsectGet_X:
+      Name: Fireproof Lizard
+    Animal_Insect_Z:
+      Name: Bright-Eyed Crab
+    Item_InsectGet_Z:
+      Name: Bright-Eyed Crab
+    Animal_Insect_AA:
+      Name: Energetic Rhino Beetle
+    Item_InsectGet_AA:
+      Name: Energetic Rhino Beetle
+    Animal_Insect_AB:
+      Name: Smotherwing Butterfly
+    Item_InsectGet_AB:
+      Name: Smotherwing Butterfly
+    BeeHome:
+      Name: Courser Bee Honey
+    Obj_FireWoodBundle:
+      Name: Wood
+    Item_Enemy_00:
+      Name: Bokoblin Horn
+    Item_Enemy_01:
+      Name: Bokoblin Fang
+    Item_Enemy_02:
+      Name: Bokoblin Guts
+    Item_Enemy_03:
+      Name: Lizalfos Horn
+    Item_Enemy_04:
+      Name: Lizalfos Talon
+    Item_Enemy_05:
+      Name: Lizalfos Tail
+    Item_Enemy_06:
+      Name: Moblin Horn
+    Item_Enemy_07:
+      Name: Moblin Fang
+    Item_Enemy_08:
+      Name: Moblin Guts
+    Item_Enemy_12:
+      Name: Lynel Horn
+    Item_Enemy_13:
+      Name: Lynel Hoof
+    Item_Enemy_14:
+      Name: Lynel Guts
+    Item_Enemy_15:
+      Name: Red Chuchu Jelly
+    Item_Enemy_16:
+      Name: Yellow Chuchu Jelly
+    Item_Enemy_17:
+      Name: White Chuchu Jelly
+    Item_Enemy_18:
+      Name: Keese Wing
+    Item_Enemy_19:
+      Name: Keese Eyeball
+    Item_Enemy_20:
+      Name: Octorok Tentacle
+    Item_Enemy_21:
+      Name: Tentacle Eyeball
+    Item_Enemy_24:
+      Name: Molduga Fin
+    Item_Enemy_25:
+      Name: Molduga Guts
+    Item_Enemy_26:
+      Name: Ancient Gear
+    Item_Enemy_27:
+      Name: Ancient Screw
+    Item_Enemy_28:
+      Name: Ancient Spring
+    Item_Enemy_29:
+      Name: Ancient Shaft
+    Item_Enemy_30:
+      Name: Ancient Core
+    Item_Enemy_31:
+      Name: Giant Ancient Core
+    Item_Enemy_32:
+      Name: Hinox Toenail
+    Item_Enemy_33:
+      Name: Hinox Tooth
+    Item_Enemy_34:
+      Name: Hinox Guts
+    Item_Enemy_38:
+      Name: Dinraal's Scale
+    Item_Enemy_39:
+      Name: Dinraal's Claw
+    Item_Enemy_40:
+      Name: Chuchu Jelly
+    Item_Enemy_41:
+      Name: Red Lizalfos Tail
+    Item_Enemy_42:
+      Name: Icy Lizalfos Tail
+    Item_Enemy_43:
+      Name: Yellow Lizalfos Tail
+    Item_Enemy_44:
+      Name: Fire Keese Wing
+    Item_Enemy_45:
+      Name: Electric Keese Wing
+    Item_Enemy_46:
+      Name: Ice Keese Wing
+    Item_Enemy_47:
+      Name: Shard of Dinraal's Fang
+    Item_Enemy_48:
+      Name: Shard of Dinraal's Horn
+    Item_Enemy_49:
+      Name: Naydra's Scale
+    Item_Enemy_50:
+      Name: Naydra's Claw
+    Item_Enemy_51:
+      Name: Shard of Naydra's Fang
+    Item_Enemy_52:
+      Name: Shard of Naydra's Horn
+    Item_Enemy_53:
+      Name: Farosh's Scale
+    Item_Enemy_54:
+      Name: Farosh's Claw
+    Item_Enemy_55:
+      Name: Shard of Farosh's Fang
+    Item_Enemy_56:
+      Name: Shard of Farosh's Horn
+    Item_Enemy_57:
+      Name: Octo Balloon
+    Item_Enemy_Put_57:
+      Name: Octo Balloon
+    Item_Material_01:
+      Name: Cane Sugar
+    Item_Material_02:
+      Name: Goron Spice
+    Item_Material_03:
+      Name: Hylian Rice
+    Item_Material_04:
+      Name: Bird Egg
+    Item_Material_05:
+      Name: Fresh Milk
+    Item_Material_06:
+      Name: Goat Butter
+    Item_Material_07:
+      Name: Tabantha Wheat
+    Item_Material_08:
+      Name: Monster Extract
+    Item_Ore_A:
+      Name: Diamond
+    Item_Ore_A_00:
+      Name: Diamant x0
+    Item_Ore_B:
+      Name: Ruby
+    Item_Ore_C:
+      Name: Sapphire
+    Item_Ore_D:
+      Name: Topaz
+    Item_Ore_E:
+      Name: Opal
+    Item_Ore_F:
+      Name: Amber
+    Item_Ore_G:
+      Name: Luminous Stone
+    Item_Ore_H:
+      Name: Rock Salt
+    Item_Ore_I:
+      Name: Flint
+    Item_Ore_J:
+      Name: Star Fragment
+  Food:
+    Item_Boiled_01:
+      Name: Hard-Boiled Egg
+    Item_ChilledFish_01:
+      Name: Frozen Bass
+    Item_ChilledFish_02:
+      Name: Frozen Hearty Salmon
+    Item_ChilledFish_03:
+      Name: Frozen Trout
+    Item_ChilledFish_04:
+      Name: Frozen Carp
+    Item_ChilledFish_05:
+      Name: Frozen Porgy
+    Item_ChilledFish_06:
+      Name: Frozen Hearty Bass
+    Item_ChilledFish_07:
+      Name: Frozen Crab
+    Item_ChilledFish_08:
+      Name: Frozen River Snail
+    Item_ChilledFish_09:
+      Name: Icy Hearty Blueshell Snail
+    Item_RoastFish_01:
+      Name: Roasted Bass
+    Item_RoastFish_02:
+      Name: Roasted Hearty Bass
+    Item_RoastFish_03:
+      Name: Roasted Trout
+    Item_RoastFish_04:
+      Name: Roasted Hearty Salmon
+    Item_RoastFish_07:
+      Name: Roasted Carp
+    Item_RoastFish_09:
+      Name: Roasted Porgy
+    Item_RoastFish_11:
+      Name: Blueshell Escargot
+    Item_RoastFish_13:
+      Name: Sneaky River Escargot
+    Item_RoastFish_15:
+      Name: Blackened Crab
+    Item_Roast_01:
+      Name: Seared Steak
+    Item_Roast_02:
+      Name: Roasted Bird Drumstick
+    Item_Roast_03:
+      Name: Baked Apple
+    Item_Roast_04:
+      Name: Toasty Stamella Shroom
+    Item_Roast_05:
+      Name: Toasted Hearty Truffle
+    Item_Roast_06:
+      Name: Toasty Hylian Shroom
+    Item_Roast_07:
+      Name: Roasted Wildberry
+    Item_Roast_08:
+      Name: Roasted Voltfruit
+    Item_Roast_09:
+      Name: Roasted Hearty Durian
+    Item_Roast_10:
+      Name: Baked Palm Fruit
+    Item_Roast_11:
+      Name: Roasted Mighty Bananas
+    Item_Roast_12:
+      Name: Roasted Hydromelon
+    Item_Roast_13:
+      Name: Charred Pepper
+    Item_Roast_15:
+      Name: Baked Fortified Pumpkin
+    Item_Roast_16:
+      Name: Roasted Lotus Seed
+    Item_Roast_18:
+      Name: Roasted Radish
+    Item_Roast_19:
+      Name: Roasted Big Radish
+    Item_Roast_24:
+      Name: Roasted Swift Carrot
+    Item_Roast_27:
+      Name: Roasted Mighty Thistle
+    Item_Roast_28:
+      Name: Roasted Armoranth
+    Item_Roast_31:
+      Name: Toasty Chillshroom
+    Item_Roast_32:
+      Name: Toasty Sunshroom
+    Item_Roast_33:
+      Name: Toasty Zapshroom
+    Item_Roast_36:
+      Name: Toasty Rushroom
+    Item_Roast_37:
+      Name: Toasty Razorshroom
+    Item_Roast_38:
+      Name: Toasty Ironshroom
+    Item_Roast_39:
+      Name: Toasty Silent Shroom
+    Item_Roast_40:
+      Name: Seared Prime Steak
+    Item_Roast_41:
+      Name: Roasted Bird Thigh
+    Item_Roast_45:
+      Name: Seared Gourmet Steak
+    Item_Roast_46:
+      Name: Roasted Whole Bird
+    Item_Roast_48:
+      Name: Roasted Acorn
+    Item_Roast_49:
+      Name: Toasted Big Heart Truffle
+    Item_Roast_50:
+      Name: Roasted Endura Carrot
+    Item_Roast_51:
+      Name: Campfire Egg
+    Item_Roast_52:
+      Name: Roasted Tree Nut
+    Item_Roast_53:
+      Name: Toasty Endura Shroom
+    Item_Chilled_01:
+      Name: Icy Meat
+    Item_Chilled_02:
+      Name: Icy Prime Meat
+    Item_Chilled_03:
+      Name: Icy Gourmet Meat
+    Item_Chilled_04:
+      Name: Frozen Bird Drumstick
+    Item_Chilled_05:
+      Name: Frozen Bird Thigh
+    Item_Chilled_06:
+      Name: Frozen Whole Bird
+    Item_Cook_A_01:
+      Name: Mushroom Skewer
+    Item_Cook_A_02:
+      Name: Steamed Mushrooms
+    Item_Cook_A_03:
+      Name: Steamed Fruit
+    Item_Cook_A_04:
+      Name: Steamed Fish
+    Item_Cook_A_05:
+      Name: Steamed Meat
+    Item_Cook_A_07:
+      Name: Fruit and Mushroom Mix
+    Item_Cook_A_08:
+      Name: Fish and Mushroom Skewer
+    Item_Cook_A_09:
+      Name: Meat and Mushroom Skewer
+    Item_Cook_A_10:
+      Name: Omelet
+    Item_Cook_A_11:
+      Name: Glazed Mushroom
+    Item_Cook_A_12:
+      Name: Glazed Meat
+    Item_Cook_A_13:
+      Name: Glazed Seafood
+    Item_Cook_A_14:
+      Name: Glazed Veggies
+    Item_Cook_B_01:
+      Name: Fried Wild Greens
+    Item_Cook_B_02:
+      Name: Simmered Fruits
+    Item_Cook_B_05:
+      Name: Fish Skewer
+    Item_Cook_B_06:
+      Name: Meat Skewer
+    Item_Cook_B_11:
+      Name: Copious Fried Wild Greens
+    Item_Cook_B_12:
+      Name: Copious Simmered Fruits
+    Item_Cook_B_13:
+      Name: Copious Mushroom Skewers
+    Item_Cook_B_15:
+      Name: Copious Seafood Skewers
+    Item_Cook_B_16:
+      Name: Copious Meat Skewers
+    Item_Cook_B_17:
+      Name: Meat and Seafood Fry
+    Item_Cook_B_18:
+      Name: Prime Meat and Seafood Fry
+    Item_Cook_B_19:
+      Name: Gourmet Meat and Seafood Fry
+    Item_Cook_B_20:
+      Name: Meat-Stuffed Pumpkin
+    Item_Cook_B_21:
+      Name: Sautéed Peppers
+    Item_Cook_B_22:
+      Name: Sautéed Nuts
+    Item_Cook_B_23:
+      Name: Seafood Skewers
+    Item_Cook_C_16:
+      Name: Fairy Tonic
+    Item_Cook_C_17:
+      Name: Elixir
+    Item_Cook_D_01:
+      Name: Salt-Grilled Mushrooms
+    Item_Cook_D_02:
+      Name: Salt-Grilled Greens
+    Item_Cook_D_03:
+      Name: Salt-Grilled Fish
+    Item_Cook_D_04:
+      Name: Salt-Grilled Meat
+    Item_Cook_D_05:
+      Name: Salt-Grilled Prime Meat
+    Item_Cook_D_06:
+      Name: Salt-Grilled Gourmet Meat
+    Item_Cook_D_07:
+      Name: Pepper Steak
+    Item_Cook_D_08:
+      Name: Pepper Seafood
+    Item_Cook_D_09:
+      Name: Salt-Grilled Crab
+    Item_Cook_D_10:
+      Name: Crab Stir-Fry
+    Item_Cook_E_01:
+      Name: Poultry Pilaf
+    Item_Cook_E_02:
+      Name: Prime Poultry Pilaf
+    Item_Cook_E_03:
+      Name: Gourmet Poultry Pilaf
+    Item_Cook_E_04:
+      Name: Fried Egg and Rice
+    Item_Cook_F_01:
+      Name: Creamy Meat Soup
+    Item_Cook_F_02:
+      Name: Creamy Seafood Soup
+    Item_Cook_F_03:
+      Name: Veggie Cream Soup
+    Item_Cook_F_04:
+      Name: Creamy Heart Soup
+    Item_Cook_G_02:
+      Name: Seafood Rice Balls
+    Item_Cook_G_03:
+      Name: Veggie Rice Balls
+    Item_Cook_G_04:
+      Name: Mushroom Rice Balls
+    Item_Cook_G_05:
+      Name: Meat and Rice Bowl
+    Item_Cook_G_06:
+      Name: Prime Meat and Rice Bowl
+    Item_Cook_G_09:
+      Name: Gourmet Meat and Rice Bowl
+    Item_Cook_G_10:
+      Name: Seafood Fried Rice
+    Item_Cook_G_11:
+      Name: Curry Pilaf
+    Item_Cook_G_12:
+      Name: Mushroom Risotto
+    Item_Cook_G_13:
+      Name: Vegetable Risotto
+    Item_Cook_G_14:
+      Name: Salmon Risotto
+    Item_Cook_G_15:
+      Name: Meaty Rice Balls
+    Item_Cook_G_16:
+      Name: Crab Omelet with Rice
+    Item_Cook_G_17:
+      Name: Crab Risotto
+    Item_Cook_H_01:
+      Name: Seafood Meunière
+    Item_Cook_H_02:
+      Name: Porgy Meunière
+    Item_Cook_H_03:
+      Name: Salmon Meunière
+    Item_Cook_I_01:
+      Name: Fruit Pie
+    Item_Cook_I_02:
+      Name: Apple Pie
+    Item_Cook_I_03:
+      Name: Egg Tart
+    Item_Cook_I_04:
+      Name: Meat Pie
+    Item_Cook_I_05:
+      Name: Carrot Cake
+    Item_Cook_I_06:
+      Name: Pumpkin Pie
+    Item_Cook_I_07:
+      Name: Hot Buttered Apple
+    Item_Cook_I_08:
+      Name: Honeyed Apple
+    Item_Cook_I_09:
+      Name: Honeyed Fruits
+    Item_Cook_I_10:
+      Name: Plain Crepe
+    Item_Cook_I_11:
+      Name: Wildberry Crepe
+    Item_Cook_I_12:
+      Name: Nutcake
+    Item_Cook_I_13:
+      Name: Fried Bananas
+    Item_Cook_I_14:
+      Name: Egg Pudding
+    Item_Cook_I_15:
+      Name: Fish Pie
+    Item_Cook_I_16:
+      Name: Honey Candy
+    Item_Cook_I_17:
+      Name: Honey Crepe
+    Item_Cook_J_01:
+      Name: Curry Rice
+    Item_Cook_J_02:
+      Name: Vegetable Curry
+    Item_Cook_J_03:
+      Name: Seafood Curry
+    Item_Cook_J_04:
+      Name: Poultry Curry
+    Item_Cook_J_05:
+      Name: Prime Poultry Curry
+    Item_Cook_J_06:
+      Name: Meat Curry
+    Item_Cook_J_07:
+      Name: Prime Meat Curry
+    Item_Cook_J_08:
+      Name: Gourmet Poultry Curry
+    Item_Cook_J_09:
+      Name: Gourmet Meat Curry
+    Item_Cook_K_01:
+      Name: Meat Stew
+    Item_Cook_K_02:
+      Name: Prime Meat Stew
+    Item_Cook_K_03:
+      Name: Pumpkin Stew
+    Item_Cook_K_04:
+      Name: Clam Chowder
+    Item_Cook_K_05:
+      Name: Gourmet Meat Stew
+    Item_Cook_K_06:
+      Name: Cream of Mushroom Soup
+    Item_Cook_K_07:
+      Name: Cream of Vegetable Soup
+    Item_Cook_K_08:
+      Name: Carrot Stew
+    Item_Cook_K_09:
+      Name: Milk
+    Item_Material_05_00:
+      Name: Milk x0
+    Item_Cook_L_01:
+      Name: Monster Stew
+    Item_Cook_L_02:
+      Name: Monster Soup
+    Item_Cook_L_03:
+      Name: Monster Cake
+    Item_Cook_L_04:
+      Name: Monster Rice Balls
+    Item_Cook_L_05:
+      Name: Monster Curry
+    Item_Cook_M_01:
+      Name: Wheat Bread
+    Item_Cook_N_01:
+      Name: Seafood Paella
+    Item_Cook_N_02:
+      Name: Fruitcake
+    Item_Cook_N_03:
+      Name: Vegetable Omelet
+    Item_Cook_N_04:
+      Name: Mushroom Omelet
+    Item_Cook_O_01:
+      Name: Dubious Food
+    Item_Cook_O_02:
+      Name: Rock-Hard Food
+    Item_Cook_P_01:
+      Name: Fragrant Mushroom Sauté
+    Item_Cook_P_02:
+      Name: Herb Sauté
+    Item_Cook_P_03:
+      Name: " Spiced Meat Skewer"
+    Item_Cook_P_04:
+      Name: Prime Spiced Meat Skewer
+    Item_Cook_P_05:
+      Name: Gourmet Spiced Meat Skewer
+  KeyItems:
+    Obj_DungeonClearSeal:
+      Name: Spirit Orb
+    Obj_KorokNuts:
+      Name: Korok Seed
+    PlayerStole2:
+      Name: Paraglider
+    Obj_ProofBook:
+      Name: Classified Envelope
+    Obj_DRStone_Get:
+      Name: Sheikah Slate
+    Obj_HeroSoul_Zora:
+      Name: Mipha's Grace
+    Obj_HeroSoul_Gerudo:
+      Name: Urbosa's Fury
+    Obj_HeroSoul_Goron:
+      Name: Daruk's Protection
+    Obj_HeroSoul_Rito:
+      Name: Revali's Gale
+    Obj_Maracas:
+      Name: Hestu's Maracas
+    Obj_ProofKorok:
+      Name: Hestu's Gift
+    Obj_ProofSandwormKiller:
+      Name: 'Medal of Honor: Molduga'
+    Obj_ProofGiantKiller:
+      Name: 'Medal of Honor: Hinox'
+    Obj_ProofGolemKiller:
+      Name: 'Medal of Honor: Talus'
+    KeySmall:
+      Name: Small Key
+    Obj_Armor_115_Head:
+      Name: Thunder Helm
+    GameRomHorseReins_00:
+      Name: Stable Bridle
+    GameRomHorseSaddle_00:
+      Name: Stable Saddle
+    GameRomHorseReins_01:
+      Name: Traveler's Bridle
+    GameRomHorseSaddle_01:
+      Name: Traveler's Saddle
+    GameRomHorseSaddle_02:
+      Name: Royal Saddle
+    GameRomHorseReins_02:
+      Name: Royal Reins
+    GameRomHorseReins_03:
+      Name: Knight's Bridle
+    GameRomHorseSaddle_03:
+      Name: Knight's Saddle
+    GameRomHorseReins_04:
+      Name: Monster Bridle
+    GameRomHorseSaddle_04:
+      Name: Monster Saddle
+    GameRomHorseReins_05:
+      Name: Extravagant Bridle
+    GameRomHorseSaddle_05:
+      Name: Extravagant Saddle
+    Obj_WarpDLC:
+      Name: Travel Medallion
+Others:
+  GameRomHorse00S:
+    Name: Donkey
+  GameRomHorseNushi:
+    Name: Lord of the Mountain
+  WolfLink:
+    Name: Wolf Link
+  GameRomHorseEpona:
+    Name: Epona
+  GameRomHorseBone:
+    Name: Stalhorse
+  Animal_Bear_B:
+    Name: Grizzlemaw Bear
+  Animal_Bear_A:
+    Name: Honeyvore Bear
+  GameRomHorse00L:
+    Name: Giant Horse
+  GameRomHorseZelda:
+    Name: Royal White Stallion
+  Obj_HeartUtuwa_A_01:
+    Name: Heart Container
+  Obj_StaminaUtuwa_A_01:
+    Name: Stamina Vessel
+  Obj_Mineral_A_01:
+    Name: Mineral Deposit
+  Obj_Mineral_B_01:
+    Name: Rare Mineral Deposit
+  Obj_Mineral_C_01:
+    Name: Luminous Stone Deposit
+  'Dm_Npc_Zelda_Sibyl ':
+    Name: Zelda NPC (White Dress)
+Shrines:
+  Monya_Toma:
+    Name: Monya Toma Shrine
+    LocX: -1494
+    LocY: 275
+    LocZ: -1480
+  Wahgo_Katta:
+    Name: Wahgo Katta Shrine
+    LocX: 351
+    LocY: 123
+    LocZ: 1014
+  Ree_Dahee:
+    Name: Ree Dahee Shrine
+    LocX: 1280
+    LocY: 137
+    LocZ: 1845
+  Shee_Vaneer:
+    Name: Shee Vaneer Shrine
+    LocX: 1274
+    LocY: 525
+    LocZ: 1938
+  Shee_Vaneth:
+    Name: Shee Venath Shrine
+    LocX: 1253
+    LocY: 443
+    LocZ: 1851
+  Myahm_Agana:
+    Name: Myahm Agana Shrine
+    LocX: 3380
+    LocY: 240
+    LocZ: 2205
+  Shae_Loya:
+    Name: Shae Loya Shrine
+    LocX: -2929
+    LocY: 306
+    LocZ: -441
+  Tena_Kosah:
+    Name: Tena Ko'sah Shrine
+    LocX: -3473
+    LocY: 384
+    LocZ: 442
+  Korsh_O'hu:
+    Name: Korsh O'hu
+    LocX: -2695
+    LocY: 105
+    LocZ: 2818
+  Dila_Maag:
+    Name: Dila Maag
+    LocX: -1795
+    LocY: 164
+    LocZ: 3456
+  Jee_Noh:
+    Name: Jee Noh
+    LocX: -1797
+    LocY: 113
+    LocZ: 2415
+  Keh_Namut:
+    Name: Keh Namut
+    LocX: -1428
+    LocY: 338
+    LocZ: 1988
+  Dah_Kaso:
+    Name: Dah Kaso
+    LocX: -1699
+    LocY: 69
+    LocZ: 1708
+  Owa_Daim:
+    Name: Owa Daim
+    LocX: -925
+    LocY: 274
+    LocZ: 2312
+  Ja_Baij:
+    Name: Ja Baij
+    LocX: -456
+    LocY: 180
+    LocZ: 1990
+  Oman_Au:
+    Name: Oman Au
+    LocX: -666
+    LocY: 173
+    LocZ: 1519
+  Rota_Ooh:
+    Name: Rota Ooh
+    LocX: -1554
+    LocY: 187
+    LocZ: 1307
+  Ka'o_Makagh:
+    Name: Ka'o Makagh
+    LocX: 520
+    LocY: 179
+    LocZ: 3518
+  Pumaag_Nitae:
+    Name: Pumaag Nitae
+    LocX: 558
+    LocY: 118
+    LocZ: 2999
+  Bosh_Kala:
+    Name: Bosh Kala
+    LocX: 87
+    LocY: 122
+    LocZ: 1649
+  Shoda_Sah:
+    Name: Shoda Sah
+    LocX: 1788
+    LocY: 189
+    LocZ: 3000
+  Yah_Rin:
+    Name: Yah Rin
+    LocX: 2834
+    LocY: 152
+    LocZ: 3320
+  Muwo_Jeem:
+    Name: Muwo Jeem
+    LocX: 3649
+    LocY: 350
+    LocZ: 3305
+  Chaas_Qeta:
+    Name: Chaas Qeta
+    LocX: 4005
+    LocY: 107
+    LocZ: 2984
+  Tawa_Jinn:
+    Name: Tawa Jinn
+    LocX: 2629
+    LocY: 318
+    LocZ: 2829
+  Ha_Dahamar:
+    Name: Ha Dahamar
+    LocX: 1667
+    LocY: 115
+    LocZ: 1928
+  Kaam_Ya'tak:
+    Name: Kaam Ya'tak
+    LocX: -966
+    LocY: 127
+    LocZ: 724
+  Mogg_Latan:
+    Name: Mogg Latan
+    LocX: -2300.68
+    LocY: 439
+    LocZ: 469
+  Toh_Yahsa:
+    Name: Toh Yahsa
+    LocX: -2269
+    LocY: 216
+    LocZ: -909
+  Rin_Oyaa:
+    Name: Rin Oyaa
+    LocX: -1712
+    LocY: 335
+    LocZ: -2556
+  Sha_Gehma:
+    Name: She Gehma
+    LocX: -1665
+    LocY: 346
+    LocZ: -3763
+  Qaza_Tokki:
+    Name: Qaza Tokki
+    LocX: -829
+    LocY: 341
+    LocZ: -3535
+  Shae_Mo'sah:
+    Name: Shae Mo'sah
+    LocX: 1751
+    LocY: 535
+    LocZ: -2555
+  Sah_Dahaj:
+    Name: Sah Dahaj
+    LocX: 2673
+    LocY: 247
+    LocZ: -1576
+  Tahno_O'ah:
+    Name: Tahno O'ah
+    LocX: 4190
+    LocY: 288
+    LocZ: 1685
+  Ta'log_Naeg:
+    Name: Ta'log Naeg
+    LocX: 1835
+    LocY: 260
+    LocZ: 896
+  Daka_Tuss:
+    Name: Daka Tuss
+    LocX: 1608
+    LocY: 117
+    LocZ: 467
+  Mezza_Lo:
+    Name: Mezza Lo
+    LocX: 2621
+    LocY: 249
+    LocZ: 387
+  Rucco_Maag:
+    Name: Rucco Maag
+    LocX: 3333
+    LocY: 119
+    LocZ: 410
+  Shai_Yota:
+    Name: Shai Yota
+    LocX: 4242
+    LocY: 110
+    LocZ: 261
+  Dagah_Keek:
+    Name: Dagah Keek
+    LocX: 3141
+    LocY: 280
+    LocZ: -421
+  Ne'ez_Yohma:
+    Name: Ne'ez Yohma
+    LocX: 3319
+    LocY: 239
+    LocZ: -510
+  Sheh_Rata:
+    Name: Sheh Rata
+    LocX: 1501
+    LocY: 128
+    LocZ: -379
+  Katah_Chuki:
+    Name: Katah Chuki
+    LocX: -633
+    LocY: 128
+    LocZ: -336
+  Zalta_Wa:
+    Name: Zalta Wa
+    LocX: -1435
+    LocY: 138
+    LocZ: -585
+  Soh_Kofi:
+    Name: Soh Kofi
+    LocX: 2245
+    LocY: 148
+    LocZ: -287
+  Mo'a_Keet:
+    Name: Mo'a Keet
+    LocX: 2719
+    LocY: 285
+    LocZ: -1157
+  Ze_Kasho:
+    Name: Ze Kasho
+    LocX: 3036
+    LocY: 348
+    LocZ: -1669
+  Dah_Hesho:
+    Name: Dah Hesho
+    LocX: 3901
+    LocY: 354
+    LocZ: -1311
+  Katosa_Aug:
+    Name: Katosa Aug
+    LocX: 4287
+    LocY: 237
+    LocZ: -2726
+  Zuna_Kai:
+    Name: Zuna Kai
+    LocX: 3321
+    LocY: 298
+    LocZ: -3428
+  Tu_Ka'loh:
+    Name: Tu Ka'loh
+    LocX: 4655
+    LocY: 237
+    LocZ: -3700
+  Keo_Ruug:
+    Name: Keo Ruug
+    LocX: 473
+    LocY: 250
+    LocZ: -2159
+  Jitan_Sa'mi:
+    Name: Jitan Sa'mi
+    LocX: 3890.85
+    LocY: 572.82
+    LocZ: 1318.75
+  Yah_Naga:
+    Name: Yah Naga
+    LocX: -337.24
+    LocY: 68.04
+    LocZ: 2598.73
+Towers:
+  Great_Plateau_Tower:
+    Name: Great Plateau Tower
+    LocX: -568
+    LocY: 246
+    LocZ: 1694
+  Hateno_Tower:
+    Name: Hateno Tower
+    LocX: 2735
+    LocY: 336
+    LocZ: 2141
+  Lanayru_Tower:
+    Name: Lanayru Tower
+    LocX: 2258
+    LocY: 310
+    LocZ: -100
+  Eldin_Tower:
+    Name: Eldin Tower
+    LocX: 2181
+    LocY: 508
+    LocZ: -1552
+  Akkala_Tower:
+    Name: Akkala Tower
+    LocX: 3303.52
+    LocY: 593.75
+    LocZ: -1505.1
+  Woodland_Tower:
+    Name: Woodland Tower
+    LocX: 883
+    LocY: 350
+    LocZ: -1596
+  Hebra_Tower:
+    Name: Hebra Tower
+    LocX: -2168
+    LocY: 529
+    LocZ: -2031
+  Ridgeland_Tower:
+    Name: Ridgeland Tower
+    LocX: -1758
+    LocY: 328
+    LocZ: -782
+  Tabantha_Tower:
+    Name: Tabantha Tower
+    LocX: -3613
+    LocY: 445
+    LocZ: -980
+  Central_Tower:
+    Name: Central Tower
+    LocX: -792
+    LocY: 197
+    LocZ: 444
+  Gerudo_Tower:
+    Name: Gerudo Tower
+    LocX: -3666
+    LocY: 475
+    LocZ: 1827
+  Wasteland_Tower:
+    Name: Wasteland Tower
+    LocX: -2307
+    LocY: 530
+    LocZ: 2430
+  Lake_Tower:
+    Name: Lake Tower
+    LocX: -39
+    LocY: 280
+    LocZ: 2956
+  Faron_Tower:
+    Name: Faron Tower
+    LocX: 1338
+    LocY: 270
+    LocZ: 3269
+  Dueling_Peaks_Tower:
+    Name: Dueling Peaks Tower
+    LocX: 1016
+    LocY: 184
+    LocZ: 1723
+Ranches:
+  Highland_Stable:
+    Name: Highland Stable
+    LocX: 519.38
+    LocY: 153.47
+    LocZ: 3442.97
+  Dueling_Peaks_Stable:
+    Name: Dueling Peaks Stable
+    LocX: 1749.04
+    LocY: 116.14
+    LocZ: 1921.79
+  Riverside_Stable:
+    Name: Riverside Stable
+    LocX: 330.27
+    LocY: 115.87
+    LocZ: 1086.14
+  Outskirt_Stable:
+    Name: Outskirt Stable
+    LocX: -1437.11
+    LocY: 138.32
+    LocZ: 1265.14
+  East_Akkala_Stable:
+    Name: East Akkala Stable
+    LocX: 4236.73
+    LocY: 232
+    LocZ: -2739.76
+  Serenne_Stable:
+    Name: Serenne Stable
+    LocX: -1552.26
+    LocY: 212.88
+    LocZ: -1788.14
+Misc:
+  Korok_Forest:
+    Name: Korok Forest
+    LocX: 453.45
+    LocY: 253.05
+    LocZ: -2024.66
+  Hateno_Dye_Shop:
+    Name: Hateno Dye Shop
+    LocX: 3406.47
+    LocY: 226.73
+    LocZ: 2148.39
+  Hateno_Armor_Shop:
+    Name: Hateno Armor Shop
+    LocX: 3356.42
+    LocY: 226.55
+    LocZ: 2129.16
+  Hateno_Item_Shop:
+    Name: Hateno Item Shop
+    LocX: 3358.4
+    LocY: 225.66
+    LocZ: 2169.71
+  Spring_of_Power:
+    Name: Spring of Power
+    LocX: 3744.1
+    LocY: 109.06
+    LocZ: -2655.86
+  Spring_of_Wisdom:
+    Name: Spring of Wisdom
+    LocX: 3936.2
+    LocY: 572.6
+    LocZ: 1339.79
+  Spring_of_Courage:
+    Name: Spring of Courage
+    LocX: 879.28
+    LocY: 123.62
+    LocZ: 2387.79
+  Heart_Shaped_Pond:
+    Name: Heart Shaped Pond
+    LocX: 2590.04
+    LocY: 291.03
+    LocZ: 3510.98
+  Lurelin_Item_Shop:
+    Name: Lurelin Item Shop
+    LocX: 2956.04
+    LocY: 106.87
+    LocZ: 3491.64
+  Lurelin_Gambling_Game:
+    Name: Lurelin Gambling Game
+    LocX: 2970.15
+    LocY: 117.93
+    LocZ: 3377.87
+  Akkala_Ancient_Tech_Lab:
+    Name: Akkala Ancient Tech Lab
+    LocX: 4507
+    LocY: 352
+    LocZ: -3146

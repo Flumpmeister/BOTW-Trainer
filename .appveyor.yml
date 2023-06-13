@@ -1,0 +1,21 @@
+# Minimal AppVeyor build configuration
+# https://www.appveyor.com/docs/build-configuration
+# download packages from nuget and use automatic builds
+version: 1.0.{build}-{branch}
+image: Visual Studio 2015
+platform:
+  - Any CPU
+configuration:
+  - Release
+  - Debug
+before_build:
+  - nuget restore BotwTrainer.sln
+build:
+  project: BotwTrainer.sln
+after_build:
+  - netstat -ab
+  - tree /F bin\%CONFIGURATION%
+  - 7z a BotwTrainer-%CONFIGURATION%-%APPVEYOR_REPO_COMMIT%.zip bin\%CONFIGURATION%
+artifacts:
+  - path: BotwTrainer-%CONFIGURATION%-%APPVEYOR_REPO_COMMIT%.zip
+    name: BotwTrainer-%CONFIGURATION%

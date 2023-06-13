@@ -1,0 +1,27 @@
+---
+CodeHandler:
+  Start: 0x01133000
+  End: 0x01134300
+  Enabled: 0x10014CFC
+
+Versions: 
+  - Version: 1.3.1
+    Start: 0x3FDF91C8
+    End: 0x43DC5158
+    Count: 0x43ABD094
+  - Version: 1.3.0
+    Start: 0x3FDF91C8
+    End: 0x43DC5158
+    Count: 0x43ABD094
+  - Version: 1.4.0
+    Start: 0x3FDF91C8
+    End: 0x43DC5158
+    Count: 0x43C83090
+  - Version: 1.4.1
+    Start: 0x3FDF91C8
+    End: 0x43DC5158
+    Count: 0x43D8D6D8
+  - Version: 1.5.0
+    Start: 0x3FDF91C8
+    End: 0x43DC5158
+    Count: 0x43D8D6D8
